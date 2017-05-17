@@ -1,0 +1,6 @@
+framework module Pods_UDP_Flooder {
+  umbrella header "Pods-UDP_Flooder-umbrella.h"
+
+  export *
+  module * { export * }
+}
